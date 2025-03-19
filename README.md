@@ -1,26 +1,28 @@
-# LAP-Vorbereitungskurs Beispiel
+# Patient-Management-LAP
 
-Dieses Repository enthält ein C#-Projekt zur Patientenverwaltung, das als Beispiel für die Vorbereitung auf die LAP dient.
+LAP Preparation Course Example
+This repository contains a C# project for patient management, designed as an example for LAP exam preparation.
 
-## Projektbeschreibung
-Das Projekt bietet eine einfache Patientenverwaltung mit folgenden Funktionen:
-- Anlegen, Bearbeiten und Löschen von Patienten
-- Anzeige einer Patientenliste
-- Such- und Filterfunktionen
+## Project Description
+The project provides a simple patient management system with the following features:
 
-## Technologie-Stack
-- Programmiersprache: C#
-- Framework: .NET (z. B. WinForms oder WPF, falls zutreffend)
-- Datenbank: (Falls eine verwendet wird, hier angeben)
+- Adding, editing, and deleting patients
+- Displaying a patient list
+- Search and filter functions
+
+## Technology Stack
+- Programming Language: C#
+- Framework: .NET (e.g., WinForms or WPF, if applicable)
+- Database: (Specify here if a database is used)
 
 ## Installation
-1. Repository klonen:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/dein-benutzername/LAP-Vorbereitungskurs.git
+   git clone https://github.com/your-username/LAP-Preparation-Course.git
    ```
-2. Projekt in Visual Studio öffnen.
-3. Falls eine Datenbank erforderlich ist, sicherstellen, dass sie eingerichtet ist.
-4. Anwendung starten.
+2. Open the project in Visual Studio.
+3. If a database is required, ensure it is set up.
+4. Run the application.
 
-## Lizenz
-Dieses Projekt dient zu Lernzwecken und kann frei verwendet werden.
+## License
+This project is intended for learning purposes and can be freely used.
