@@ -1,6 +1,6 @@
 # Patient-Management-LAP
 
-LAP Preparation Course Example
+LAP (Lehrabschlussprüfung - Applikationsentwicklung CODING) Preparation Course Example
 This repository contains a C# project for patient management, designed as an example for LAP exam preparation.
 
 ## Project Description
